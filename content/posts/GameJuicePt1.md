@@ -5,5 +5,9 @@ date = "2023-03-15"
 author = "Jannis Wolf"
 +++
 
-Random About Page!
-Woooo!
+# Let's build a game!
+
+So I had this idea of a game, where the player needs to do mental arithmetic. 
+I sat down and coded something up in Unreal. Overall maybe a day or two later, I had this
+
+{{<video src="GameNoJuice.mp4" control="yes">}}
