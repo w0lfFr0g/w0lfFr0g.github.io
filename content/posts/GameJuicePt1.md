@@ -10,4 +10,4 @@ author = "Jannis Wolf"
 So I had this idea of a game, where the player needs to do mental arithmetic. 
 I sat down and coded something up in Unreal. Overall maybe a day or two later, I had this
 
-{{<video src="GameNoJuice.mp4" control="yes">}}
+{{<video src="GameNoJuice" control="yes">}}

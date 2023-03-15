@@ -1,6 +1,6 @@
 baseurl = "http://www.wolffrog.com"
 title = "WolfFrog Games"
-theme = "hugo-coder"
+theme = ["hugo-video", "hugo-coder"]
 languagecode = "en"
 defaultcontentlanguage = "en"
 
